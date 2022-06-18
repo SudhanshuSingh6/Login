@@ -1,0 +1,5 @@
+@import '~antd/dist/antd.css';
+.input{
+    margin-left: 15rem;
+    margin-top: -1rem;
+}

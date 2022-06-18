@@ -1,0 +1,37 @@
+.btn1 {
+    background-color: orange;
+    color:white;
+    width:15em;
+    height:3em;
+    text-align:center;
+    font-size: 10pt;
+    border-radius :2px;
+    position: fixed;
+    top: 0.7rem;
+    left: 107rem;
+    border: none;
+  }
+  .btn2 {
+    background-color: rgb(12, 35, 46);
+    color:white;
+    width:15em;
+    height:3em;
+    text-align:center;
+    font-size: 10pt;
+    border-radius :2px;
+    position: fixed;
+    top: 0.7rem;
+    left: 94rem;
+    border: none;
+  }
+  .btn3 {
+    background-color: rgb(12, 35, 46);
+    color:white;
+    width:22.5em;
+    height:3em;
+    text-align:center;
+    font-size: 10pt;
+    border-radius :2px;
+    position: fixed;
+    border: none;
+  }
