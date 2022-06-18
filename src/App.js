@@ -6,12 +6,10 @@ import Login from './component/login'
 import Line from './component/line'
 import Text from './component/text'
 function App() {
- 
   document.body.style.overflow = "hidden";
   return (
     <>
     <Line />
-    
     <Text />
     <br></br>
     <Button />

@@ -1,7 +1,12 @@
 .body{
     background-color: rgb(12, 35, 46);
     width:91em;
-    height:73em;
+    height:67em;
     margin-top:-35em;
     margin-left:50em;
+}
+@media screen and (max-width: 768px) {
+    .body{
+        display: none;
+    }
 }
