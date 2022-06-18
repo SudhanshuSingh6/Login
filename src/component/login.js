@@ -54,8 +54,7 @@ function Login() {
         };
         fetch("https://reqres.in/api/login", requestOptions)
             .then(response => response)
-            .then(result => ShowMessage(result))
-            .catch(error => console.log('error', error));
+            .then(result => ShowMessage(result));
     }
     return (
         <>
